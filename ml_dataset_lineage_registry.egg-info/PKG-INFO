@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: ml-dataset-lineage-registry
-Version: 0.1.0
-Summary: Versioned, validated dataset manifests and lineage for ML teams
-Requires-Python: >=3.11
-Requires-Dist: fastapi<1,>=0.115
-Requires-Dist: uvicorn[standard]<1,>=0.30
-Requires-Dist: jsonschema<5,>=4.23
